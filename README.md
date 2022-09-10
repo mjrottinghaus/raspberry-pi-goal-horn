@@ -1,4 +1,4 @@
-# NHL Goal Horn - Raspberry Pi
+# Goal Horn - Raspberry Pi
 
 ## Setup
 
